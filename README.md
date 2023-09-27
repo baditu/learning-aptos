@@ -129,7 +129,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [x] `do` [Getting started]
 1. - [x] `read` [Block-STM paper] (sections 1 and 2)
 1. - [x] `read` [magnum6.eth baseline] article
-1. - [ ] `do` [magnum6.eth create things] tutorial
+1. - [x] `do` [magnum6.eth create things] tutorial
 1. - [ ] re-`read` [Block-STM paper] (sections 1 and 2)
 1. - [ ] `do` [Wayne Culbreth's Episode 2] tutorial
 1. - [ ] `read` [Aptos documentation] homepage
