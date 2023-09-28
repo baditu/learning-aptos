@@ -135,7 +135,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [x] `read` [Aptos documentation] homepage
 1. - [x] `do` [Wayne Culbreth's Episode 3] tutorial
 1. - [x] `read` [Transactions and states]
-1. - [ ] `do` [Your first transaction]
+1. - [x] `do` [Your first transaction]
 1. - [ ] `read` [Accounts]
 1. - [ ] `do` [Your first NFT]
 1. - [ ] `read` [Move book] (Introduction-4)
