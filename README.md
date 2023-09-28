@@ -139,7 +139,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [x] `read` [Accounts]
 1. - [x] `do` [Your first NFT]
 1. - [x] `read` [Move book] (Introduction-4)
-1. - [ ] `do` [move-cli] embedded tutorial
+1. - [x] `do` [move-cli] embedded tutorial
 1. - [ ] `read` [Move book] (chapters 5-9)
 1. - [ ] `do` [Your first Move module]
 1. - [ ] `read` [Move book] (chapters 10-14)
