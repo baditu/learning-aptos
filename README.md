@@ -137,7 +137,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [x] `read` [Transactions and states]
 1. - [x] `do` [Your first transaction]
 1. - [x] `read` [Accounts]
-1. - [ ] `do` [Your first NFT]
+1. - [x] `do` [Your first NFT]
 1. - [ ] `read` [Move book] (Introduction-4)
 1. - [ ] `do` [move-cli] embedded tutorial
 1. - [ ] `read` [Move book] (chapters 5-9)
