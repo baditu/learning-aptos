@@ -142,7 +142,7 @@ Feel free to clone this repo and [check off items][markdown checkbox] as you go!
 1. - [x] `do` [move-cli] embedded tutorial
 1. - [x] `read` [Move book] (chapters 5-9)
 1. - [x] `do` [Your first Move module]
-1. - [ ] `read` [Move book] (chapters 10-14)
+1. - [x] `read` [Move book] (chapters 10-14)
 1. - [ ] `do` [Your first dApp]
 1. - [ ] `read` [Move book] (chapters 15-19)
 1. - [ ] `do` [Your first coin]
